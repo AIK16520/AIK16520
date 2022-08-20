@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AIK16520
+- 👀 I’m interested in Solving problems using technology, which can eventually help the common folk.
+- 🌱 I’m currently learning React Native since I already know flutter I wanted to have a go at React Native to see which platform is better for what purpose
