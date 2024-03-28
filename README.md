@@ -7,8 +7,8 @@ Hi there, I'm Ali 👋
 
 -🎓 &nbsp; I'm currently pursuing BS in Computer Science and Data Science from Rice University.    
 -🤔 &nbsp; Exploring new technologies and developing software solutions and helping people with their technological needs.  
--🌱 &nbsp; I’m currently learning React Native and Nodejs.  
--💼 &nbsp; Have an entrepreneurial mindset and looking to apply the entrepreneurial skills where I work at.  
+-🌱 &nbsp; I’m currently learning Snowflake and AWS
+-💼 &nbsp; Have an entrepreneurial mindset and looking to lead a team to derive technological innovation  
 
  Programming Languages :computer: &nbsp;  
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
